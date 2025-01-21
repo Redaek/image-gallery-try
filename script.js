@@ -17,3 +17,6 @@ backBtn.addEventListener('click', () =>{
     scrollContainer.style.scrollBehavior = 'smooth'
     scrollContainer.scrollLeft -= 900
 })
+
+
+// this is just trying of gitbranch
